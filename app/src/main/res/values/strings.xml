@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="hello_black_fragment">Hello black fragment</string>
+    <string name="monuments">Monuments</string>
+    <string name="events">Events</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+
+
+
+    <string name="statu_name">Statue of Liberty</string>
+    <string name="statu_address">Address: Mumbai</string>
+    <string name="statu_phone">Phone: Not Available</string>
+    <string name="statu_overview">Overview:4am Pickup from Hotel or anywhere in Mumbai and drop at Mumbai airport flight to Delhi and drive to Agra by car 3 hrs drive. First visit Taj Mahal and after Taj Mahal take a Lunch break. Second visit Agra Fort and some shopping in Agra. After Agra Sightseeing driver to Delhi and drop at Delhi Airport flight to Mumbai. Arrive Mumbai airport and drop at your Hotel or anywhere in Mumbai</string>
+
+
+    <string name="tajmahal_name">TajMahal</string>
+    <string name="tajmahal_phone">Phone: Not Available</string>
+    <string name="tajmahal_address">Address: Taj Mahal Day Tour with Same Day Flights from,Mumbai</string>
+    <string name="tajmahal_overview">Overview: Fly to Delhi from any part of India and transfer to Agra on this full-day sightseeing tour of the Taj Mahal. This 20-hour day includes round-trip transfers by plane and cab and 4-5 hours to marvel at the stunning marble mausoleum, Pearl Mosque, and more.</string>
+    
+    <string name="kanhaeri_name">Kanhaeri</string>
+    <string name="kanhaeri_phone">Phone:Not Available</string>
+    <string name="kanhaeri_address">Address:  Kanheri- Buddhist Cave Tour</string>
+    <string name="kanhaeri_overview">Overview: The Kanheri Caves are a group of caves and rock-cut monuments.They contain Buddhist sculptures and relief carvings, paintings and inscriptions, dating from the 1st century BCE to the 10th century CE. Explore  the numerou</string>
+
+    <string name="waterkingdom_name">WaterKingdom</string>
+    <string name="waterkingdom_phone">Phone: Not Available</string>
+    <string name="waterkingdom_address">Address: Water Kingdom Ticket, Mumbai</string>
+    <string name="waterkingdom_overview">Overview: Water Kingdom offers over 30 attractions spread across 22 acres of clean fun with 90 lakh liters of water.  Water Kingdom is a division of the Essel World theme park. Enjoy the many slides and water themed attractions. Essel World is located on an Island on the coastal Gorai village in northwest Mumbai. It is a scenic setting injected with wholesome thrill  entertainment.
+    Includes entry ticket to the Water Kingdom (not Essel World them park). Includes unlimited access to all rides for the entire day as per ticket booked. Access to any special event or paid attractions is not included.
+    </string>
+    
+    <string name="sightseeing_name">SightSeeing</string>
+    <string name="sightseeing_phone">Phone: Not Available</string>
+    <string name="sightseeing_address">Address: Mumbai City Sightseeing Group Tour</string>
+    <string name="sightseeing_overview">Overview: We offer the best Mumbai tour with English speaking Mumbai tour guides. Our Mumbai city tour guides and Bombay Hidden History you will not find in any Books. Our Mumbai tour guides speak excellent English and have years of experience leading guided tours for Western tourists visiting the city for business and leisure.
+            </string>
+    
+    <string name="market_name">Market</string>
+    <string name="market_phone">Phone: Not Available</string>
+    <string name="market_address">Address: Mumbai Market Walking Tour</string>
+    <string name="market_overview">Overview: Are you interested in shopping and in exploring new colorful places in the heart of pulsating Mumbai? Become a market insider and experience the sights, sounds, and flavors. A tour through the traditional markets of South Mumbai is a taste of real India. Your great guide to lead you to the Market.
+       </string>
+
+
+    <string name="event_one_name">Christmas Spectacular Starring the Radio City Rockettes</string>
+    <string name="event_one_phone">Phone: Not Available</string>
+    <string name="event_one_address">Address: 1260 Avenue of the Americas Between 50th and 51st Streets, Mumbai</string>
+    <string name="event_one_overview">Overview: You never forget the memories you make at the Christmas Spectacular Starring the Radio City Rockettes. From the moment you walk into Radio City Music Hall to the very last dazzling dance number, experience the magic that only Rockettes can create. Bring your family for a one-of-a-kind tradition, where wooden soldiers dance, ice skaters glide, snowflakes swirl—and the unmistakable spirit of Christmas in New York City comes alive.</string>
+
+    <string name="event_two_name">Macy Thanksgiving Day Parade</string>
+    <string name="event_two_phone">Phone: Not Available</string>
+    <string name="event_two_address">Address: Herald Square 151 W 34th St, Mumbai</string>
+    <string name="event_two_overview">Overview: The Macy Thanksgiving Day Parade is about as American as apple pie and has become a Thanksgiving Day tradition for millions since 1924. The parade runs up Central Park West and 6th Ave in New York City and features an impressive display of floats, marching bands, musical acts, and iconic oversized balloons of famed pop culture characters like Snoopy, Kermit, and Bugs Bunny. Other notable moments include performances from original Broadway casts and an impressive lineup of high school marching bands from around the country. All of the sights, sounds, and glamour of New York City in one holiday extravaganza.</string>
+
+    <string name="event_three_name">The Governors Ball Music Festival</string>
+    <string name="event_three_phone">Phone: Not Available</string>
+    <string name="event_three_address">Address: 1 Randalls Is Randall’s Island Park, Mumbai</string>
+    <string name="event_three_overview">Overview: Dramatically set in the middle of the East River on Randall’s Island just off of Manhattan, this 3-day festival features a wide-ranging mix of bands that range from indie rock to hip-hop. Fairly new to the festival scene since it debuted in 2011, it has quickly grown into one of New York’s most popular music events. In between sets, attendees can sample treats from New York’s best food trucks, try their luck with a lawn game or just take in the sweeping views of the city.</string>
+
+    <string name="event_four_name">Times Square Countdown</string>
+    <string name="event_four_phone">Phone: Not Available</string>
+    <string name="event_four_address">Address: 1560 Broadway, New York City, Mumbai</string>
+    <string name="event_four_overview">Overview: Millions of revelers come to New York City from around the world and brave the cold for this legendary celebration to ring in the New Year. As crowds gather in Times Square on December 31st, people tune in from all over the world to watch the famous ball drop. At the exact stroke of midnight, the city lights up with a dazzling display of fireworks overhead. Somehow, New York’s most famous neighborhood shines even brighter on this special night.</string>
+
+    <string name="event_five_name">New York City Wine and Food Festival</string>
+    <string name="event_five_phone">Phone: Not Available</string>
+    <string name="event_five_address">Address: 9 W 19th St, New York City, Mumbai</string>
+    <string name="event_five_overview">Overview: The New York City Wine and Food Festival takes place each October as a benefit for the Food Bank for NYC and Share Our Strength No Child Hungry campaign, so you can feel good about filling up with food and drink for a good cause. For four days, the calendar is packed with themed seminars, wine pairings, culinary demos, and other events, held at venues throughout the city and hosted by celebrity chefs from the Food Network and Cooking Channel. The largest and most popular are the walk around Grand Tasting events on Saturday and Sunday, where attendees visit tasting stations from hundreds of chefs from around the country, while mingling with celebrity chefs in the crowd.</string>
+
+    <string name="event_six_name">Hello Panda Festival</string>
+    <string name="event_six_phone">Phone: Not Available</string>
+    <string name="event_six_address">Address: 123–01 Roosevelt Ave Citi Field, Mumbai</string>
+    <string name="event_six_overview">Overview: The Hello Panda Festival is the largest Chinese lantern festival in North America. Held at Citi Field, this event will showcase over 120 Instagrammable lantern exhibits, 60 food and drink vendors, live performances, modern art exhibits, interactive games, cultural arts and handicrafts, and a holiday market Perfect for a date night or a fun family night out! Dec 6,2019 to Jan 26, 2020</string>
+
+
+
+    <string name="restaurant_one_name">Le Coucou</string>
+    <string name="restaurant_one_phone">Phone: 212 271-4252</string>
+    <string name="restaurant_one_address">Address: 138 Lafayette St, Mumbai</string>
+    <string name="restaurant_one_overview">Overview: After taking the Parisian dining scene by storm, internationally acclaimed chef Daniel Rose returns to his home soil with Le Coucou, his New York City collaboration with restaurateur Stephen Starr. The Roman and Williams-designed space is a gracious modern nod to fine European gastronomy, with crisp linens, flickering candles and whitewashed brick serving as subtle framework for Rose’s vivid cooking. Updating classical French cuisine with charm and verve, Rose shrinks the intercontinental divide separating the City of Light and the Big Apple, proving that the true essence of fine French dining can thrive in any time zone.</string>
+
+    <string name="restaurant_two_name">The NoMad Restaurant</string>
+    <string name="restaurant_two_phone">Phone: 212 796-1500</string>
+    <string name="restaurant_two_address">Address: 1170 Broadway, Mumbai</string>
+    <string name="restaurant_two_overview">Overview: NoMad began in New York as a fresh take on the experience of the grand hotels of Europe where old world glamour met the playful spirit of a new age. Fine dining for this generation, our approach to food and beverage is casually elegant, refined yet approachable, open and welcoming.  With a focus on showcasing the finest seasonal ingredients from the region, the NoMad restaurant has earned a Michelin star for what the guide describes as the “kitchen’s ability to turn the ordinary into the sublime.”NoMad is home to a celebrated cocktail program led by Leo Robitschek, having earned numerous Tales of the Cocktail Spirited Awards, the James Beard Award for Outstanding Bar Program, as well as Best Bar in North America and #4 in the world on the list of 50 Best Bars in 2018. As with the culinary approach, the beverage program at NoMad reflects a passion for classic cocktail traditions with a spirit of revelry and whimsy.</string>
+
+    <string name="restaurant_three_name">The Odeon</string>
+    <string name="restaurant_three_phone">Phone: 212 233-0507</string>
+    <string name="restaurant_three_address">Address: 145 W Broadway, Mumbai</string>
+    <string name="restaurant_three_overview">Overview: The Odeon is a New York City classic. This restaurant has been around since 1980, long before these Tribeca streets became lined with Vespas and well-dressed children. We weren’t around back in those days, so we’re not going to be the ones to give you a detailed history of the place. But if you’re looking for a really good read that will definitely make your meal at The Odeon more interesting, take in all six pages of this Vanity Fair article before dinner. Let’s just say...we missed all the good stuff.</string>
+
+    <string name="restaurant_four_name">Carbone</string>
+    <string name="restaurant_four_phone">Phone: 212 254-3000</string>
+    <string name="restaurant_four_address">Address: 181 Thompson St, Mumbai</string>
+    <string name="restaurant_four_overview">Overview: Carbone is an Italian-American restaurant created by Mario Carbone, Rich Torrisi and Jeff Zalaznick. The restaurant pays homage to the essence of the great Italian-American restaurants of mid-20th century in New York, where delicious, exceptionally well-prepared food was served in settings that were simultaneously elegant, comfortable and unpretentious. The food nods to that same history, but takes its culinary cues from the great talents and techniques of the present and of the future. Familiar dishes like Seafood Salad, Linguini Vongole, Lobster Fra Diavola, Chicken Scarpariello and Veal Parmesan elevated to a new level.</string>
+
+    <string name="restaurant_five_name">Wildair</string>
+    <string name="restaurant_five_phone">Phone: 646 954-1231</string>
+    <string name="restaurant_five_address">Address: 142 Orchard St, Mumbai</string>
+    <string name="restaurant_five_overview">Overview: Natural wines and thoughtful, innovative food that feels effortless and always fresh are the staples of WildAir, the sister restaurants to its highly-acclaimed sister restaurant, Contra, located just a couple of doors down. Each dish here is more than it seems from the menu listings: lettuce, for example, is not something one should feel compelled to order off a roster that boasts an impressive list of proteins and interesting flavor profiles. But here, that lettuce is so much more than just lettuce. It is Little Gems coated with ribbons of butter and lettuce dressing (a play on butter lettuce, we presume) and topped with crunchy topped pistachios. The beef options on offer the Wagyu steak and the beef tartare served with sharp cheddar and horseradish–are smart follow ups to the salad you should not underestimate. If you are in the mood for fish, the squid is a winner, as is the scallop crudo, if there is shrimp on the menu, order them they are expertly sourced and could stand on their own when it comes to delicious, fresh from the sea flavor. While this restaurant is all about catching up with friends in a wine bar style environment, you wont feel rushed out. This is the kind of place you will want to take your time in, sipping a weird wine you just discovered–thanks to their curated list.</string>
+
+    <string name="restaurant_six_name">The Pool</string>
+    <string name="restaurant_six_phone">Phone: 646 910-1947</string>
+    <string name="restaurant_six_address">Address: 99 E 52nd St, Mumbai</string>
+    <string name="restaurant_six_overview">Overview: The Four Seasons restaurant, famous for the pool at its center and its cotton candy parting gifts closed its doors last year to the dismay of New York old guard. This year, thanks to Major Food Group, known for Carbone (above), Santina, Parm, Dirty French and more re opened the iconic culinary (and architectural) landmark as THE Grill and The Pool, both located in the Seagram Building home of the once frequented Four Seasons. The Grill, a reinvented chophouse boasts a simple menu of classics redefined. Proteins on the grill abound, and side dishes include broccoli prepared four different ways, seven options of potato preparations and nostalgic add-ons like a crab louis–except this one comes with avocado.</string>
+
+
+
+    <string name="hotel_one_name">Four Seasons Hotel Mumbai</string>
+    <string name="hotel_one_phone">Phone: 212 758-5700</string>
+    <string name="hotel_one_address">Address: 57 E 57th St, Mumbai, NY 10022, United States</string>
+    <string name="hotel_one_overview">Overview: The Four Seasons Hotel is an unabashedly grand and extravagant hotel with high vaulted ceilings, marble floors and pillars, and over three hundred rooms and suites throughout its vast structure. However, despite the sheer enormity of its offerings, the hotel manages to exude an air that feels understated rather than oversaturated, subtle and classy rather than opulent. It is an incredibly intimate hotel that is sure to make you fall in love with the city. There are 386 rooms in totality, and all of them feature a stunning view of the city below. If you rise higher you can also start to see the Central Park and the Hudson, and the higher you are the more expansive your view. The rooms may be expensive, however the stay is undeniably pleasant and charming. If you’re looking for restaurants where you can indulge in a hearty meal, you need look no further.</string>
+
+    <string name="hotel_two_name">Park Hyatt Mumbai</string>
+    <string name="hotel_two_phone">Phone: 855 501-3247</string>
+    <string name="hotel_two_address">Address: 153 W 57th St, Mumbai , NY 10019, United States</string>
+    <string name="hotel_two_overview">Overview: The Park Hyatt hotel is sprawled across 25 floors in the 90-storey tall One57 high-rise in Midtown. This luxury hotel is definitely located in one of the classier and trendier locations in New York, as Carnegie Hall is just down the street, and you take a short stroll to either Central Park or Times Square. The hotel goes for a soothing and neutral atmosphere with earthy beige and brown shades dominating the decorations. Even the patterns on the rugs and fabric are soothing, and the couches are of plush Italian leather. There are 210 rooms in all, and the hotel features over 300 contemporary works of art from popular and indie artists. The hotel is replete with tall glass dividers which provides the entire structure with a sense of transparency and light. Three of the top floors also feature a heated swimming pool with speakers underwater, playing some classic tunes off Carnegie Hall. One of the other really impressive aspects of this hotel is the unique service it offers. When you check-in, you are greeted by a staff adept at their iPads, wearing formals, and they take you up to your room in a private elevator while wirelessly communicating with the room staff to get your room ready before you even get there</string>
+
+    <string name="hotel_three_name">The Plaza</string>
+    <string name="hotel_three_phone">Phone: 212 579-3000</string>
+    <string name="hotel_three_address">Address: 768 5th Ave, Mumbai , NY 10019, United States</string>
+    <string name="hotel_three_overview">Overview: This is an independent hotel in a city that is predominantly ruled by large corporations and conglomerates. The location of the hotel is about as well-connected as you could possibly expect. Located on Grand Army Plaza, you can literally treat Central Park as your own personal backyard. In addition to that, all the regular tourist spots are around the neighborhood, and as you leave the hotel you are met with The Apple Store, Wollman Ice Rink, and other trendy locations and stores. This boutique hotel is quite favored by European travelers and celebrities alike. One of the things that sets it apart is its attentive and friendly staff. Guests have to pass by lush gardens to enter the hotel, the lobby features an antique French desk, and you have to pass by cascades of wreathed flowers as you make your way to the elevators. The bathrooms are made in all-marble, with fine Italian furniture and linen.</string>
+
+    <string name="hotel_four_name">Mandarin Oriental, Mumbai</string>
+    <string name="hotel_four_phone">Phone: 212 805-8800</string>
+    <string name="hotel_four_address">Address: 80 Columbus Cir,  Mumbai, NY 10023, United States</string>
+    <string name="hotel_four_overview">Overview: The biggest draw for this luxury five star hotel is its expertly chosen location. It’s located atop the Time Warner Center, to the south of Central Park, one of the most popular tourist attractions in New York. As such, the Mandarin Oriental hotel is located within close quarters of all the important parts of the city, with plenty of charming restaurants, cafes, and shopping centers around. The hotel looks over the stunning Hudson River, and the spa service in the hotel is one of the most popular in the city. Overall, there are 202 rooms along with 46 suites, and they range in variations of 11 different aesthetic sensibilities, though all of them have been touched with an Oriental charm. As is customary for Mandarin Oriental hotels, they try to bring an aesthetic sense that is a fusion of eastern asian motifs and accents, along with a rather retro and contemporary style. This feels at once homely, current, and yet exotic.</string>
+
+    <string name="hotel_five_name">The Lowell Hotel</string>
+    <string name="hotel_five_phone">Phone: 212 838-1400</string>
+    <string name="hotel_five_address">Address: 28 E 63rd St,  Mumbai, NY 10065, United States</string>
+    <string name="hotel_five_overview">Overview: Located on the Upper East Side, this luxury five star hotel is on one of the most elite parts of the city. As such this hotel firmly places you in the trendiest neighborhood of the city, though within walking distance of Central Park, Museum Mile, and even the more populist attractions of Times Square. The neighborhood is also replete with several boutique fashion outlets and cafes. The lobby of the hotel is quite opulent with marble floors, marble pillars, and full length mirrors. With 74 rooms, the hotel often feels snug and offers its guests the intimacy of a large private house. Some of the rooms even feature fireplaces, and the interiors are primarily made in a conjunction of mahogany wood furnitures, and silk draperies. One of the best rooms at the hotel is the Garden Suite, which comes with two spacious terraces, one of them featuring a mini-fountain, and the other featuring a dining arrangement big enough for four people. Another great attraction is The Pembroke Room which has been designed with a kind of old-world charm, with plush carpeted floors, and a general vibe that is sure to speak to the inner romantic in all of us. However, even the standard rooms are great in their own rights, equipped with coffee tables, marble tiled bathrooms, and work desks as well.</string>
+
+    <string name="hotel_six_name">The Mark Hotel</string>
+    <string name="hotel_six_phone">Phone: 212 744-4300</string>
+    <string name="hotel_six_address">Address: 25 E 77th St, Mumbai, NY 10075, United States</string>
+    <string name="hotel_six_overview">Overview: he Mark could not possibly be located in a better spot. The hotel itself is at the end of a street that is flanked by lush trees on either side. Located in Madison and 77th, it is a mere block away from Central Park and Museum Mile. As such, it is in the very heart of one of the most culturally active sites in the whole city. The hotel itself has been constructed in a modernist style with sharp bold geometric lines and colorful interiors. The hotel bar features a pink back light, and the rooms have plenty of sconces and chic furnishings. The rooms are elegant and technologically heavy with a control panel that can handle the lighting, regulate the temperature of the room, or do anything else you like!</string>
+
+
+
+
+
+</resources>
